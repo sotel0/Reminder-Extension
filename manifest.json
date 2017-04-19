@@ -1,0 +1,17 @@
+{
+	"name": "Pop",
+	"version": "1.0",
+	"manifest_version": 2,
+	"description": "Set constant reminder that will get more aggressive.",
+	
+	"browser_action": {
+		"default_title": "Remind Me",
+	 	"default_icon": "songbird.png",
+	 	"default_popup": "extensions.html"
+	},
+
+	"icons":{
+		 	"128": "songbird.png"
+		}
+
+}

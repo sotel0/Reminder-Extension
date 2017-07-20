@@ -1,0 +1,17 @@
+body {
+    background-image: url("imgs/space1.jpg");
+}
+h1{
+	font-family: Raleway, Cambay, "Museo Sans", "Trebuchet MS", "Times New Roman", serif;
+	text-align: center;
+	color:white;
+	font-size: 250%;
+}
+
+.wrapper {
+    text-align: center;
+}
+.button {
+    position: absolute;
+    top: 50%;
+}
